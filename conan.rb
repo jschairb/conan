@@ -1,6 +1,6 @@
 require 'sinatra'
 
-get '/'
+get '/' do
   erb :index
 end
 
@@ -16,7 +16,7 @@ __END__
   <body>
     <h1>What Is Best In Life?</h1>
     <%= yield %>
-
+    <div class="footer">an <a href="https://twitter.com/jschairb">@jschairb</a> joint</div>
   </body>
 </html>
 

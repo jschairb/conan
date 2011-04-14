@@ -21,8 +21,4 @@ __END__
 </html>
 
 @@ index
-<object width="640" height="390">
-  <param name="movie" value="http://www.youtube-nocookie.com/v/6PQ6335puOc?fs=1&amp;hl=en_US&amp;rel=0"></param>
-  <param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param>
-  <embed src="http://www.youtube-nocookie.com/v/6PQ6335puOc?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="390"></embed>
-</object>
+<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/6PQ6335puOc?rel=0" frameborder="0" allowfullscreen></iframe>

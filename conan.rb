@@ -16,9 +16,9 @@ __END__
   <body>
     <h1>What Is Best In Life?</h1>
     <%= yield %>
-    <div class="footer">an <a href="https://twitter.com/jschairb">@jschairb</a> joint</div>
+    <div class="footer">an <a href="https://twitter.com/jschairb">@<span class="danzig">jschairb</span></a> joint</div>
   </body>
 </html>
 
 @@ index
-<iframe title="YouTube video player" width="640" height="390" src="http://www.youtube.com/embed/6PQ6335puOc?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe title="YouTube video player" width="640" height="510" src="http://www.youtube.com/embed/V30tyaXv6EI?rel=0" frameborder="0" allowfullscreen></iframe>

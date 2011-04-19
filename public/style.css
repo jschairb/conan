@@ -32,6 +32,10 @@ div.footer {
 }
 
 a, a:visited {
-    font-family: 'Danzig', Arial, sans-serif;
     color: #BF3030
+}
+
+a span.danzig, a:visited span.danzig {
+    font-family: 'Danzig', Arial, sans-serif;
+
 }

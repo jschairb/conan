@@ -21,4 +21,4 @@ __END__
 </html>
 
 @@ index
-<iframe title="YouTube video player" width="640" height="510" src="http://www.youtube.com/embed/V30tyaXv6EI?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe title="YouTube video player" width="480" height="390" src="http://www.youtube.com/embed/V30tyaXv6EI?rel=0" frameborder="0" allowfullscreen></iframe>
